@@ -1,0 +1,8 @@
+---- Descricao do banco de dados -------
+Este arquivo tem como intuito descrever o banco de dados.
+
+Nos preocupamos em criar um banco de dados, rápido e organizado.
+
+Contamos com uma estrutura de 15 tabelas, 5 procedures, 10 funcoes e 15 triggers.
+
+Nosso banco armazena as informacoes de cadastro de usuario, produtos e vendas.
