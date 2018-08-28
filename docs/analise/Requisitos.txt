@@ -1,0 +1,2 @@
+Requisitos são objetivos ou restrições estabelecidas por clientes e usuários do sistema que definem as diversas propriedades do sistema. Os requisitos  de software são, obviamente, aqueles dentre os requisitos de sistema que dizem respeito a propriedades do software.
+Feito por Andressa
